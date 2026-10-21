@@ -103,11 +103,11 @@ Table 2. Fiji measurements of five cells in field 13361 (13361-actin.DIB)
 
 ![Mean actin fluorescence](figures/06_actin_intensity.png)
 
-![Cell area versus circularity](figures/07_area_vs_circularity.png)
-
 Figure 13. Mean actin fluorescence of the five measured cells in field 13361
 
-Figure 13. Cell area versus circularity for the five measured cells in field 13361
+![Cell area versus circularity](figures/07_area_vs_circularity.png)
+
+Figure 14. Cell area versus circularity for the five measured cells in field 13361
 
 ## Explain your results
 

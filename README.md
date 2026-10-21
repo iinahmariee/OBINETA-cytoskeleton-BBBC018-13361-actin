@@ -12,8 +12,6 @@ Lab activity related to Karp Chapter 9: The Cytoskeleton and Cell Motility | Fij
 
 **Goal:** Download and choose your own fluorescence images of HT29 human colon-cancer cells, select one phenotype, measure five cells in Fiji, make two plots in R, and document your work on GitHub.
 
-> **Important:** These are images of fixed, stained cells—not live-cell videos. This lab examines cell shape and the F-actin staining pattern; it does not measure movement or migration speed.
-
 ## Repository Structure
 
 ```

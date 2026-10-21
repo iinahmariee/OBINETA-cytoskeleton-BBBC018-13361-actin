@@ -14,27 +14,27 @@
 
 <img width="1901" height="857" alt="01_Fiji Downloads page with Windows x86-64 selected" src="https://github.com/user-attachments/assets/1ab5ac20-8ee9-4e57-a180-e180a8669ca5" />
 
-Figure 1. Fiji ImageJ Software Download Page for Windows Installation and Windows x86-64 version was selected for installation on a Windows computer.
+**Figure 1.** Fiji ImageJ Software Download Page for Windows Installation and Windows x86-64 version was selected for installation on a Windows computer.
 
 <img width="1500" height="492" alt="Screenshot 2026-10-21 132600" src="https://github.com/user-attachments/assets/01a5c51f-f68a-4db6-9706-886eb2a2a8f2" />
 
-Figure 2. Fiji software installed and ready (fiji-latest-win64-jdk)
+**Figure 2.** Fiji software installed and ready (fiji-latest-win64-jdk)
 
 <img width="1918" height="1020" alt="Screenshot 2026-10-21 132754" src="https://github.com/user-attachments/assets/e34fce8e-17f3-4c11-9091-1db9ffdd07c2" />
 
-Figure 3. Opening the .DIB images in Fiji with File > Import > Bio-Formats
+**Figure 3.** Opening the .DIB images in Fiji with File > Import > Bio-Formats
 
 <img width="796" height="593" alt="Screenshot 2026-10-21 133045" src="https://github.com/user-attachments/assets/08479929-3b6c-4d48-85a5-afd26932a059" />
 
-Figure 4. Opening the field 13361 actin, DNA and pH3 images in Fiji (File > Open)
+**Figure 4.** Opening the field 13361 actin, DNA and pH3 images in Fiji (File > Open)
 
 <img width="1002" height="1025" alt="Screenshot 2026-10-21 133456" src="https://github.com/user-attachments/assets/0366c8b0-710a-4ff8-a8c1-32b8ad9464db" />
 
-Figure 5. Measuring each traced cell with Analyze > Measure
+**Figure 5.** Measuring each traced cell with Analyze > Measure
 
 <img width="1206" height="761" alt="Screenshot 2026-10-21 133749" src="https://github.com/user-attachments/assets/b958a729-c20c-45fc-b4ac-62b3c9a59fca" />
 
-Figure 6. Fiji Set Measurements: Area, Mean gray value, Shape descriptors, Display label
+**Figure 6.** Fiji Set Measurements: Area, Mean gray value, Shape descriptors, Display label
 
 ## Analyses & Answers
 
@@ -52,23 +52,23 @@ Figure 6. Fiji Set Measurements: Area, Mean gray value, Shape descriptors, Displ
 
 <img width="281" height="470" alt="Screenshot 2026-10-21 150502" src="https://github.com/user-attachments/assets/3d2c2711-8908-47d9-9c6c-168d35bc85e8" />
 
-Figure 7. BBBC018 reference example: Long projections (field 13361)
+**Figure 7.** BBBC018 reference example: Long projections (field 13361)
 
 ### Open your chosen fluorescence images in Fiji
 
 ![Figure 8](figures/01_13361_actin_raw.png)
 
-Figure 8. Field 13361, F-actin channel (phalloidin), before measurement
+**Figure 8.** Field 13361, F-actin channel (phalloidin), before measurement
 
 ![Figure 9](figures/02_13361_DNA_raw.png)
 
-Figure 9. Field 13361, DNA channel (Hoechst 33342), used as a guide for locating nuclei
+**Figure 9.** Field 13361, DNA channel (Hoechst 33342), used as a guide for locating nuclei
 
 ![Figure 10](figures/03_13361_pH3_raw.png)
 
-Figure 10. Field 13361, pH3 channel (phospho-histone H3), optional reference
+**Figure 10.** Field 13361, pH3 channel (phospho-histone H3), optional reference
 
-Table 1. The three fluorescence channels of field 13361 (pH3 is optional)
+**Table 1.** The three fluorescence channels of field 13361 (pH3 is optional)
 
 | | **Actin** | **DNA** | **pH3** |
 |---|---|---|---|
@@ -82,13 +82,13 @@ Table 1. The three fluorescence channels of field 13361 (pH3 is optional)
 
 ![Figure 11](figures/04_measured_cells.png)
 
-Figure 11. Five traced cells measured on 13361-actin.DIB (yellow outlines)
+**Figure 11.** Five traced cells measured on 13361-actin.DIB (yellow outlines)
 
 ![Figure 12](figures/05_roi_manager_five_cells.png)
 
-Figure 12. ROI Manager with the five traced cells of field 13361
+**Figure 12.** ROI Manager with the five traced cells of field 13361
 
-Table 2. Fiji measurements of five cells in field 13361 (13361-actin.DIB)
+**Table 2.** Fiji measurements of five cells in field 13361 (13361-actin.DIB)
 
 | | Label | Area | Mean | Min | Max | Circ. | AR | Round | Solidity |
 |---|---|---|---|---|---|---|---|---|---|
@@ -101,11 +101,11 @@ Table 2. Fiji measurements of five cells in field 13361 (13361-actin.DIB)
 
 ![Mean actin fluorescence](figures/06_actin_intensity.png)
 
-Figure 13. Mean actin fluorescence of the five measured cells in field 13361
+**Figure 13.** Mean actin fluorescence of the five measured cells in field 13361
 
 ![Cell area versus circularity](figures/07_area_vs_circularity.png)
 
-Figure 14. Cell area versus circularity for the five measured cells in field 13361
+**Figure 14.** Cell area versus circularity for the five measured cells in field 13361
 
 ## Explain your results
 

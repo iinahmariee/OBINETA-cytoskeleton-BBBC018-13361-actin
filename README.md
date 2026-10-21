@@ -8,8 +8,6 @@
 
 **Phenotype:** Long projections 13361-actin.DIB, 13361-DNA.DIB
 
-Lab activity related to Karp Chapter 9: The Cytoskeleton and Cell Motility | Fiji/ImageJ + R + GitHub | Students choose their own images
-
 **Goal:** Download and choose your own fluorescence images of HT29 human colon-cancer cells, select one phenotype, measure five cells in Fiji, make two plots in R, and document your work on GitHub.
 
 ## Process

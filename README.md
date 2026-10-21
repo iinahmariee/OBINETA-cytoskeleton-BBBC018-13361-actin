@@ -12,18 +12,6 @@ Lab activity related to Karp Chapter 9: The Cytoskeleton and Cell Motility | Fij
 
 **Goal:** Download and choose your own fluorescence images of HT29 human colon-cancer cells, select one phenotype, measure five cells in Fiji, make two plots in R, and document your work on GitHub.
 
-## Repository Structure
-
-```
-├── data/
-│   └── fiji_results.csv
-├── figures/
-├── results/
-│   └── cell_summary.csv
-└── scripts/
-    └── analyze_cells_R
-```
-
 ## Process
 
 ![Figure 1](figures/process_1_fiji_download_page.png)

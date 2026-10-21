@@ -14,27 +14,27 @@ Lab activity related to Karp Chapter 9: The Cytoskeleton and Cell Motility | Fij
 
 ## Process
 
-![Figure 1](figures/process_1_fiji_download_page.png)
+<img width="1901" height="857" alt="01_Fiji Downloads page with Windows x86-64 selected" src="https://github.com/user-attachments/assets/1ab5ac20-8ee9-4e57-a180-e180a8669ca5" />
 
 Figure 1. Fiji ImageJ Software Download Page for Windows Installation and Windows x86-64 version was selected for installation on a Windows computer.
 
-![Figure 2](figures/process_2_fiji_installed.png)
+<img width="1500" height="492" alt="Screenshot 2026-10-21 132600" src="https://github.com/user-attachments/assets/01a5c51f-f68a-4db6-9706-886eb2a2a8f2" />
 
 Figure 2. Fiji software installed and ready (fiji-latest-win64-jdk)
 
-![Figure 3](figures/process_3_bioformats_import.png)
+<img width="1918" height="1020" alt="Screenshot 2026-10-21 132754" src="https://github.com/user-attachments/assets/e34fce8e-17f3-4c11-9091-1db9ffdd07c2" />
 
 Figure 3. Opening the .DIB images in Fiji with File > Import > Bio-Formats
 
-![Figure 4](figures/process_4_open_actin_dna_ph3.png)
+<img width="796" height="593" alt="Screenshot 2026-10-21 133045" src="https://github.com/user-attachments/assets/08479929-3b6c-4d48-85a5-afd26932a059" />
 
 Figure 4. Opening the field 13361 actin, DNA and pH3 images in Fiji (File > Open)
 
-![Figure 5](figures/process_5_analyze_measure.png)
+<img width="1002" height="1025" alt="Screenshot 2026-10-21 133456" src="https://github.com/user-attachments/assets/0366c8b0-710a-4ff8-a8c1-32b8ad9464db" />
 
 Figure 5. Measuring each traced cell with Analyze > Measure
 
-![Figure 6](figures/process_6_set_measurements.png)
+<img width="1206" height="761" alt="Screenshot 2026-10-21 133749" src="https://github.com/user-attachments/assets/b958a729-c20c-45fc-b4ac-62b3c9a59fca" />
 
 Figure 6. Fiji Set Measurements: Area, Mean gray value, Shape descriptors, Display label
 
@@ -52,7 +52,7 @@ Figure 6. Fiji Set Measurements: Area, Mean gray value, Shape descriptors, Displ
 | Download link | <https://data.broadinstitute.org/bbbc/BBBC018/BBBC018_v1_images.zip> |
 | Visible features supporting the phenotype | Several cells have long, thin actin extensions reaching away from the cell body |
 
-![Figure 7](figures/reference_long_projections_13361.png)
+<img width="281" height="470" alt="Screenshot 2026-10-21 150502" src="https://github.com/user-attachments/assets/3d2c2711-8908-47d9-9c6c-168d35bc85e8" />
 
 Figure 7. BBBC018 reference example: Long projections (field 13361)
 
